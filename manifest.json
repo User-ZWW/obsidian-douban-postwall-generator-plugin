@@ -1,0 +1,10 @@
+{
+	"id": "poster-wall-generator",
+	"name": "Poster Wall Generator",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Scans the folder for images and generates an interactive Vue.js poster wall gallery.",
+	"author": "Antigravity",
+	"authorUrl": "https://github.com/obsidianmd/obsidian-sample-plugin",
+	"isDesktopOnly": false
+}
